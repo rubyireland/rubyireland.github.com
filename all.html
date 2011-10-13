@@ -1,0 +1,17 @@
+---
+layout: default
+type: website
+description: Ruby Ireland 2011 
+---
+
+<div class="row">
+  <div class="span10 columns">
+  <div id="content">
+      {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        <div class='strap'>{{ post.categories | array_to_sentence_string }}</div></li>
+      {% endfor %}
+    </div>
+  </div>
+  {% include sidebar.html %}
+</div> <!-- row -->
