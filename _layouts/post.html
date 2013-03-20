@@ -6,11 +6,11 @@ type: article
 {% assign author = site.authors[page.author] %}
 
 <div class="row">
-  <div class="span9">
+  <div class="span8">
     <h3>{{ page.title }}</h3>
-    <div class="byline">
-      Written by <span class="author">{{ author.display_name }}</span> {{ page.date | date: '%b %d %Y' }}
-    </div>
+    <p>
+      <em>Posted by {{ author.display_name }} on {{ page.date | date_to_long_string }}.</em>
+    </p>
     <div>{{ content }}</div>
   </div>
 </div> <!-- row -->
