@@ -1,19 +1,7 @@
 ---
-comments: false
-date: 2011-04-20 19:36:56
 layout: post
-slug: build-it-bill-em-bill-em-again
 title: Build it, bill 'em, bill 'em again...
-wordpress_id: 245
-categories:
-- Meetups
-tag:
-- billing
-- community
-- ecommerce
-- ireland
-- meetup
-- recurring
+author: declan
 ---
 
 So one of the big things to come out of the success of the recent e-commerce talks is that there is a very real level of community interest in learning, contributing and sharing e-commerce knowledge and practices amongst members. Several people have mentioned that there is a lack of information on areas such as recurring billing, which seems to be for a variety of reasons.

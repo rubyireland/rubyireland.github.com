@@ -1,16 +1,7 @@
 ---
-comments: true
-date: 2010-07-26 06:57:14
 layout: post
-slug: wh-ruby-and-its-irish-community-is-cooler-than-a-eskimos-freezer
 title: Why Ruby and its Irish Community is Cooler than a Eskimo's Freezer...
-wordpress_id: 21
-categories:
-- Press Release
-tag:
-- community
-- ireland
-- ruby
+author: declan
 ---
 
 So with a new site in place, it's high time to explain a little about Ruby Ireland to the outside world. For those of you new to Ruby Ireland, it's a community of Ruby enthusiasts scattered around Ireland - and occasionally a few other far flung places on the Earth. It's aim is simple - to provide it's members and the public with a place to find out about the Ruby scene in Ireland, share Ruby knowledge and organise events and projects related to Ruby Ireland.

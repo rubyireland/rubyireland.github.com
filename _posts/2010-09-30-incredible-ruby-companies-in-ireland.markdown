@@ -1,12 +1,7 @@
 ---
-comments: true
-date: 2010-09-30 21:07:56
 layout: post
-slug: incredible-ruby-companies-in-ireland
 title: Incredible Ruby Companies in Ireland!
-wordpress_id: 121
-categories:
-- Press Release
+author: declan
 ---
 
 So about a month ago we put out a call for companies using Ruby to get in touch. The response has been great with almost two dozen seizing the initiative. Thanks for getting in touch!
@@ -87,6 +82,6 @@ And here's a secret, sssh... There's more great Ruby companies waiting in the wi
   * [TapMap](http://www.tapmap.com/) publishes local retail price data on mobile platforms
 
 	
-  * [TicketSolve](http://www.ticketsolve.com/) is a complete online and box-office ticketing solution for venues, festivals and sporting events__
+  * [TicketSolve](http://www.ticketsolve.com/) is a complete online and box-office ticketing solution for venues, festivals and sporting events
 
 

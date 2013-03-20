@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2012-06-26 14:00:30
 layout: post
-slug: frazzle-a-big-fat-geek-setting
 title: Frazzle - a Big Fat Geek Setting
-wordpress_id: 428
-categories:
-- Meetups
+author: declan
 ---
 
 When: Sat 30th June 2012, 11:00 to 17:00

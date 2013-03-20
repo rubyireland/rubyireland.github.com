@@ -3,13 +3,15 @@ layout: default
 comments: true
 type: article
 ---
+{% assign author = site.authors[page.author] %}
 
 <div class="row">
-  <div class="span10 columns">
+  <div class="span8">
     <h3>{{ page.title }}</h3>
-    <div id="content">{{ content }}</div>
+    <p>
+      <em>Posted by {{ author.display_name }} on {{ page.date | date_to_long_string }}.</em>
+    </p>
+    <div>{{ content }}</div>
   </div>
-
-  {% include sidebar.html %}
 </div> <!-- row -->
 

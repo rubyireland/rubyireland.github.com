@@ -1,12 +1,7 @@
 ---
-comments: true
-date: 2010-08-13 18:08:42
 layout: post
-slug: ruby-companies-make-some-noise
 title: Ruby companies make some noise!
-wordpress_id: 104
-categories:
-- Press Release
+author: declan
 ---
 
 Today, we put out a call on the Ruby Ireland Google group for companies using Ruby to get in touch so that we can compile a list that can be put on the RubyIreland.com website. The response so far has been great so we're looking to keep that momentum going. If you're part of Ruby company then please drop us an email. 
