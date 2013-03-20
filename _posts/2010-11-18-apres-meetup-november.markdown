@@ -47,7 +47,7 @@ Scraper wiki is a tool that allows anyone to create scrapers with all the coding
 Watch out for a more in depth post by Declan shortly as he delves more into scraperwiki.
 
 
-## Dexy : Make - docs - sexy*
+## Dexy : Make - docs - sexy
 
 
 Ana presented a talk in [dexy](http://www.dexy.it) a tool she's developed to make documentation of software projects a lot easier. Ana's developed dexy as open source project. The potential uses for dexy in automating the documentation process are endless. So make sure you check it out [here](http://www.dexy.it), there's also twitter channel [there](http://www.twitter.com/dexyit).

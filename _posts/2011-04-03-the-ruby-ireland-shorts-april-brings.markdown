@@ -19,7 +19,7 @@ tag:
   
 
 
-_The Ruby Ireland shorts section is compiled from the _[_recent community contributions_](http://bit.ly/ridraft)_ . Feel free to add to it for next month and join in the Ruby Ireland community! You can discuss any points raised here on the [Ruby Ireland Googlegroup <em](http://groups.google.com/group/ruby_ireland/browse_thread/thread/eed2517314d66e60).
+The Ruby Ireland shorts section is compiled from the [recent community contributions](http://bit.ly/ridraft). Feel free to add to it for next month and join in the Ruby Ireland community! You can discuss any points raised here on the [Ruby Ireland Googlegroup](http://groups.google.com/group/ruby_ireland/browse_thread/thread/eed2517314d66e60).
 
 
 

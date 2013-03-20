@@ -87,6 +87,6 @@ And here's a secret, sssh... There's more great Ruby companies waiting in the wi
   * [TapMap](http://www.tapmap.com/) publishes local retail price data on mobile platforms
 
 	
-  * [TicketSolve](http://www.ticketsolve.com/) is a complete online and box-office ticketing solution for venues, festivals and sporting events__
+  * [TicketSolve](http://www.ticketsolve.com/) is a complete online and box-office ticketing solution for venues, festivals and sporting events
 
 
