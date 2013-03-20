@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2010-11-12 15:19:10
 layout: post
-slug: dexy-making-documents-sexy
 title: Dexy - making documents sexy
 author: qamir
-categories:
-- Meetups
 ---
 
 ![](images/dexy.png)

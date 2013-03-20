@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2012-09-25 11:44:15
 layout: post
-slug: how-do-i-know-if-my-heroku-app-is-slow
 title: How do I know if my Heroku app is slow?
 author: trevor
-categories:
-- General
 ---
 
 [This blog post](https://blog.logentries.com/2012/09/how-do-i-know-if-my-heroku-app-is-slow/) from Logentries covers understanding request latency for Heroku apps, in particular under high user loads. It focuses on analysing your logs in production environments and understanding what to do about certain heroku error codes.

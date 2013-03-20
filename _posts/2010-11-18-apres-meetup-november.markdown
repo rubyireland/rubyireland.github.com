@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2010-11-18 23:38:08
 layout: post
-slug: apres-meetup-november
 title: 'Aprés meetup: November'
 author: qamir
-categories:
-- Meetups
 ---
 
 ![](/images/apres-meetup-november.png)

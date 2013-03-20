@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2012-07-05 17:06:22
 layout: post
-slug: rubyjs-conference-in-dublin-this-august-spreeconf
 title: Ruby/JS Conference in Dublin this August --- SpreeConf
 author: jos
-categories:
-- Conferences
 ---
 
 You might remember Brian Quinn from the March 2011 meet-up when he spoke about Spree Commerce, an open source e-commerce platform written in Rails. Since then Spree has become one of the most popular open source projects on GitHub. The Spree team is now hosting a developer’s conference in Dublin, August 22nd and 23rd.

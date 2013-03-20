@@ -1,17 +1,7 @@
 ---
-comments: false
-date: 2010-08-11 21:08:15
 layout: post
-slug: after-the-friendly-fire
 title: After the friendly fire...
 author: declan
-categories:
-- Meetups
-tag:
-- community
-- ireland
-- meetup
-- ruby
 ---
 
 Thanks to all who turned out to make last night a really fun Ruby Ireland meetup! About fifteen of Ireland's finest Ruby developers made the epic trip to Doyles Bar, near Trinity College, Dublin! With the World Cup out of the way it was time to get back down to the serious business of discussing the latest topics in Rubyland and beyond.

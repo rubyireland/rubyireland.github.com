@@ -1,22 +1,7 @@
 ---
-comments: false
-date: 2011-05-03 22:40:34
 layout: post
-slug: the-tantalizing-tapas-flavoured-event
 title: The "Tantalizing Tapas" Flavoured Event
 author: declan
-categories:
-- Meetups
-tag:
-- community
-- ireland
-- meetup
-- MongoDB
-- Rack
-- ruby
-- Sinatra
-- tapas
-- Web API
 ---
 
 Are you interested in MongoDB, Rack and Sinatra? And some Web APIs and tapas for good measure?

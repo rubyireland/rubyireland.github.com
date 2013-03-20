@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2010-12-15 23:55:42
 layout: post
-slug: the-heedful-hacker-redux
 title: The heedful hacker - redux
 author: qamir
-categories:
-- Meetups
 ---
 
 ![The Security Ninja Presents - The principles of Secure Development](/images/ruby-e.png "The Security Ninja Presents - The principles of Secure Development")

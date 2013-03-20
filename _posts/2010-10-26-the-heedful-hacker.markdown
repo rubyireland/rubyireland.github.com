@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2010-10-26 18:12:33
 layout: post
-slug: the-heedful-hacker
 title: The heedful hacker – Principles of Secure Development
 author: qamir
-categories:
-- Meetups
 ---
 
 ![The Security Ninja Presents - The principles of Secure Development](/images/ruby-e.png "The Security Ninja Presents - The principles of Secure Development")

@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2011-11-17 13:48:56
 layout: post
-slug: ri-meetup-chris-mcgrath-on-i18n-22nd-nov-twistedpepper
 title: 'RI Meetup: Chris McGrath on i18n, 22nd Nov @TwistedPepper'
 author: declan
-categories:
-- Meetups
 ---
 
 The countries of Europe might be squabbling over their respective grievances with each other at the moment. But at Ruby Ireland we're looking to get on with our neighbours and give them a super fantastic user experience, as Chris McGrath talks internationalization.

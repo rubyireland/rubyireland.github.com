@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2011-07-06 14:42:27
 layout: post
-slug: ruby-project-nights-at-amworks-ie
 title: Ruby Project Nights at amworks.ie
 author: jos
-categories:
-- Meetups
 ---
 
 Last month the [Ruby Ireland](http://rubyireland.com) [mailing list](https://groups.google.com/group/ruby_ireland?hl=en) was [hit](https://groups.google.com/group/ruby_ireland/browse_thread/thread/9f92b7c95c2b7de5?hl=en) with great news: Alan from [amworks](http://www.amworks.ie/) invited everybody to join in a Ruby Project Night on the evening

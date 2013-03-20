@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2012-05-22 10:51:25
 layout: post
-slug: dr-nic-on-appscrolls-and-bosh-at-rubyireland
 title: Dr Nic on AppScrolls and BOSH at RubyIreland
 author: declan
-categories:
-- Meetups
 ---
 
 It's been a while since Ruby-crazed Engine Yard came to Ireland, bringing PHP very much into their repertoire through the acquisition of Orchestra. And a proper welcome to EY from the Ruby Ireland community has been long overdue! So it was great to have Eamon Leonard and Dr Nic host us for evening Thursday April 19th at their Irish HQ on Barrow St. The space they have there is fantastic - there's more couches than db's, a rather well stocked fridge and a phenomenal futuristic projector/Skype setup that makes it feel more like The Bridge in the Starship Enterprise than Grand Canal Dock. Engage!

@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2011-01-11 00:51:40
 layout: post
-slug: ruby-hack-evening
 title: Ruby Hack Evening
 author: qamir
-categories:
-- Meetups
 ---
 
 Hi all, 

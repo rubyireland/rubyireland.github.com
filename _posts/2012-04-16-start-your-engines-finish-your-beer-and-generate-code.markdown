@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2012-04-16 07:26:01
 layout: post
-slug: start-your-engines-finish-your-beer-and-generate-code
 title: Start your Engines, Finish your Beer, and Generate Code!
 author: declan
-categories:
-- Meetups
 ---
 
 This month we do have a treat for you. The irrepressible [Dr Nic](http://drnicwilliams.com/) (@drnic) is going to be talking at Ruby Ireland via Skype linkup on the subject of Code Generators!

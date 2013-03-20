@@ -1,16 +1,7 @@
 ---
-comments: false
-date: 2011-04-05 13:04:29
 layout: post
-slug: recurring-billing-with-active-merchant
 title: Recurring Billing with Active Merchant
 author: declan
-categories:
-- Meetups
-tag:
-- community
-- ireland
-- meetup
 ---
 
 Matt Hutchinson presents his work on recurring billing with Active Merchant at this months Ruby Ireland meetup, which will be held at Twisted Pepper (54 Middle Abbey Street, Dublin 1). The event will go ahead on Tuesday, 12th of April at 7pm. 

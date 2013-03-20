@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2011-08-05 12:41:15
 layout: post
-slug: ruby-ireland-august-extravaganza
 title: Ruby Ireland August Extravaganza
 author: jos
-categories:
-- Meetups
 ---
 
 Who said August is a quiet month? Well, we have not one but two sessions for you!

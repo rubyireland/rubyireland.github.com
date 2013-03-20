@@ -1,12 +1,7 @@
 ---
-comments: false
-date: 2010-07-13 16:06:29
 layout: post
-slug: rubys-ireland-gets-a-new-website
 title: Ruby Ireland gets a new website
 author: qamir
-categories:
-- General
 ---
 
 ![Ruby Ireland Logo](/images/ruby-ireland-300x298.jpg)
