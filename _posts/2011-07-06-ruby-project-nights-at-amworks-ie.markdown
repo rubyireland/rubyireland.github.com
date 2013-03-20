@@ -4,7 +4,7 @@ date: 2011-07-06 14:42:27
 layout: post
 slug: ruby-project-nights-at-amworks-ie
 title: Ruby Project Nights at amworks.ie
-wordpress_id: 328
+author: jos
 categories:
 - Meetups
 ---

@@ -4,7 +4,7 @@ date: 2010-12-20 14:07:42
 layout: post
 slug: irish-geeks-keep-focus-with-charity-fundraiser
 title: Irish Geeks keep Focus with Charity Fundraiser
-wordpress_id: 222
+author: declan
 categories:
 - Meetups
 tag:

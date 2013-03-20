@@ -4,7 +4,7 @@ date: 2010-12-15 23:55:42
 layout: post
 slug: the-heedful-hacker-redux
 title: The heedful hacker - redux
-wordpress_id: 216
+author: qamir
 categories:
 - Meetups
 ---

@@ -4,7 +4,7 @@ date: 2011-09-06 08:37:17
 layout: post
 slug: september_11-on-ruby-ireland
 title: September_11 on Ruby Ireland
-wordpress_id: 368
+author: jos
 categories:
 - Meetups
 ---

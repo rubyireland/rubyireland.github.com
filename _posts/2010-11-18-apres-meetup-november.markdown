@@ -4,7 +4,7 @@ date: 2010-11-18 23:38:08
 layout: post
 slug: apres-meetup-november
 title: 'Aprés meetup: November'
-wordpress_id: 210
+author: qamir
 categories:
 - Meetups
 ---

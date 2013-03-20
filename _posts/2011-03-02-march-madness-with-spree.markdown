@@ -4,7 +4,9 @@ date: 2011-03-02 09:06:42
 layout: post
 slug: march-madness-with-spree
 title: March Madness with Spree
-wordpress_id: 230
+author: qamir
+categories:
+- Meetups
 ---
 
 ![](images/spree.png)

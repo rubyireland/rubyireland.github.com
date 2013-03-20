@@ -3,10 +3,14 @@ layout: default
 comments: true
 type: article
 ---
+{% assign author = site.authors[page.author] %}
 
 <div class="row">
   <div class="span10 columns">
     <h3>{{ page.title }}</h3>
+    <div class="byline">
+      Written by <span class="author">{{ author.display_name }}</span> {{ page.date | date: '%b %d %Y' }}
+    </div>
     <div id="content">{{ content }}</div>
   </div>
 

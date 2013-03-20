@@ -1,10 +1,10 @@
 ---
-comments: true
+comments: false
 date: 2010-10-26 18:12:33
 layout: post
 slug: the-heedful-hacker
 title: The heedful hacker – Principles of Secure Development
-wordpress_id: 161
+author: qamir
 categories:
 - Meetups
 ---

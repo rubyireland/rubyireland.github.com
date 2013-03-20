@@ -1,10 +1,10 @@
 ---
-comments: true
+comments: false
 date: 2010-08-11 21:08:15
 layout: post
 slug: after-the-friendly-fire
 title: After the friendly fire...
-wordpress_id: 79
+author: declan
 categories:
 - Meetups
 tag:

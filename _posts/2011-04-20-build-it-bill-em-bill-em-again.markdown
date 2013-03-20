@@ -4,7 +4,7 @@ date: 2011-04-20 19:36:56
 layout: post
 slug: build-it-bill-em-bill-em-again
 title: Build it, bill 'em, bill 'em again...
-wordpress_id: 245
+author: declan
 categories:
 - Meetups
 tag:

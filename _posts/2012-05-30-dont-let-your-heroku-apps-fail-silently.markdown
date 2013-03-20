@@ -4,9 +4,9 @@ date: 2012-05-30 11:44:15
 layout: post
 slug: dont-let-your-heroku-apps-fail-silently
 title: Don't let your Heroku Apps fail silently...
-wordpress_id: 419
+author: trevor
 categories:
-- Press Release
+- General
 ---
 
 Some more posts by the guys @logentries, this time with a Heroku twist...

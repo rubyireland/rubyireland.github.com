@@ -1,12 +1,12 @@
 ---
-comments: true
+comments: false
 date: 2010-07-26 06:57:14
 layout: post
 slug: wh-ruby-and-its-irish-community-is-cooler-than-a-eskimos-freezer
 title: Why Ruby and its Irish Community is Cooler than a Eskimo's Freezer...
-wordpress_id: 21
+author: declan
 categories:
-- Press Release
+- General
 tag:
 - community
 - ireland

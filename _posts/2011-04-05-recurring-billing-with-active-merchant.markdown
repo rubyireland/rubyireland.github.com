@@ -4,7 +4,7 @@ date: 2011-04-05 13:04:29
 layout: post
 slug: recurring-billing-with-active-merchant
 title: Recurring Billing with Active Merchant
-wordpress_id: 259
+author: declan
 categories:
 - Meetups
 tag:

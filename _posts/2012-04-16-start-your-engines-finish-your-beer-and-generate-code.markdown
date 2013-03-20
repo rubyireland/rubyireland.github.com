@@ -4,7 +4,7 @@ date: 2012-04-16 07:26:01
 layout: post
 slug: start-your-engines-finish-your-beer-and-generate-code
 title: Start your Engines, Finish your Beer, and Generate Code!
-wordpress_id: 388
+author: declan
 categories:
 - Meetups
 ---

@@ -4,7 +4,7 @@ date: 2012-05-22 10:51:25
 layout: post
 slug: dr-nic-on-appscrolls-and-bosh-at-rubyireland
 title: Dr Nic on AppScrolls and BOSH at RubyIreland
-wordpress_id: 401
+author: declan
 categories:
 - Meetups
 ---

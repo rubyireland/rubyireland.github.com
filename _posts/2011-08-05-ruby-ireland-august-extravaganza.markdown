@@ -4,7 +4,7 @@ date: 2011-08-05 12:41:15
 layout: post
 slug: ruby-ireland-august-extravaganza
 title: Ruby Ireland August Extravaganza
-wordpress_id: 341
+author: jos
 categories:
 - Meetups
 ---

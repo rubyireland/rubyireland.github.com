@@ -4,8 +4,9 @@ date: 2012-10-31 11:44:15
 layout: post
 slug: rails-girls-lets-make-it-happen
 title: Rails Girls - Lets's make it happen!
+author: declan
 categories:
-- Press Release
+- General
 ---
 
 It’s pretty incredible how many great dev meetups there are going on in Dublin these days, leading to a really nice buzz in the tech community. One of the things that’s lacking at a lot of these meetups is apparent – girls! And it’s something that needs to change. So I was really excited when Rails dev Emily Castles got in touch recently talking about organising a Rails Girls event, which is an awesome idea!

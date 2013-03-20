@@ -39,3 +39,13 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: style
+
+authors:
+  declan:
+    display_name: Declan McGrath
+  qamir:
+    display_name: Qamir
+  jos:
+    display_name: Jos
+  trevor:
+    display_name: Trevor Parsons

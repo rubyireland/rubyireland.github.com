@@ -1,10 +1,10 @@
 ---
-comments: true
+comments: false
 date: 2010-08-09 08:13:36
 layout: post
 slug: ruby-ireland-meetup-friendly-fire-aug-10th-doyles-bar
 title: Ruby Ireland Meetup "Friendly Fire", Aug 10th (Doyle's Bar)
-wordpress_id: 77
+author: declan
 categories:
 - Meetups
 tag:

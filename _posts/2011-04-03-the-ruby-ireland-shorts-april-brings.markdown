@@ -4,7 +4,7 @@ date: 2011-04-03 15:46:03
 layout: post
 slug: the-ruby-ireland-shorts-april-brings
 title: The Ruby Ireland Shorts! April brings...
-wordpress_id: 246
+author: declan
 categories:
 - Shorts
 tag:

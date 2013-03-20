@@ -1,12 +1,12 @@
 ---
-comments: true
+comments: false
 date: 2010-09-30 21:07:56
 layout: post
 slug: incredible-ruby-companies-in-ireland
 title: Incredible Ruby Companies in Ireland!
-wordpress_id: 121
+author: declan
 categories:
-- Press Release
+- General
 ---
 
 So about a month ago we put out a call for companies using Ruby to get in touch. The response has been great with almost two dozen seizing the initiative. Thanks for getting in touch!

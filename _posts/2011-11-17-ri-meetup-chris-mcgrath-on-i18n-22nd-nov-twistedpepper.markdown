@@ -4,7 +4,7 @@ date: 2011-11-17 13:48:56
 layout: post
 slug: ri-meetup-chris-mcgrath-on-i18n-22nd-nov-twistedpepper
 title: 'RI Meetup: Chris McGrath on i18n, 22nd Nov @TwistedPepper'
-wordpress_id: 374
+author: declan
 categories:
 - Meetups
 ---

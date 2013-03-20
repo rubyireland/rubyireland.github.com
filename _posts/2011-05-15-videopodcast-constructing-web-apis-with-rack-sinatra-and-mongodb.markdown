@@ -4,7 +4,7 @@ date: 2011-05-15 23:04:06
 layout: post
 slug: videopodcast-constructing-web-apis-with-rack-sinatra-and-mongodb
 title: Video/Podcast - Constructing Web APIs with Rack, Sinatra and MongoDB
-wordpress_id: 306
+author: declan
 categories:
 - Videocast
 tag:

@@ -4,7 +4,9 @@ date: 2011-01-11 00:51:40
 layout: post
 slug: ruby-hack-evening
 title: Ruby Hack Evening
-wordpress_id: 225
+author: qamir
+categories:
+- Meetups
 ---
 
 Hi all, 
