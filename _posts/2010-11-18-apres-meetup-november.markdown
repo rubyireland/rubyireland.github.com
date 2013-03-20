@@ -9,7 +9,7 @@ categories:
 - Meetups
 ---
 
-[![](http://rubyireland.com/wp-content/uploads/2010/11/Aprés-meetup-november.png)](http://rubyireland.com/wp-content/uploads/2010/11/Aprés-meetup-november.png)
+![](/images/apres-meetup-november.png)
 
 
 November's meetup saw a great turn out to see two excellent talks by [Declan McGrath](http://www.twitter.com/theirishpenguin) & [Ana Nelson](http://www.twitter.com/ananelson) covering scraper wiki & dexy respectively with a some deep conversations after over a beer or two. Here's my round up of the evening:
@@ -69,6 +69,9 @@ Ana mentioned [propublica](http://www.propublica.org) as an great of a site coll
 
 
 [ Learned Optimism: How to Change Your Mind and Your Life](http://www.amazon.co.uk/Learned-Optimism-Change-Your-Mind/dp/1400078393/ref=sr_1_1?ie=UTF8&qid=1290466373&sr=8-1)
+
 [ Smile or Die: How Positive Thinking Fooled America and the World](http://www.amazon.co.uk/Smile-Die-Positive-Thinking-America/dp/1847081738/ref=sr_1_1?ie=UTF8&qid=1290466412&sr=1-1)
+
 [On the Shortness of Life](http://www.amazon.co.uk/Penguin-Great-Ideas-Shortness-Life/dp/014101881X/ref=sr_1_1?ie=UTF8&qid=1290466439&sr=1-1)
+
 [ Where Mathematics Comes from: How the Embodied Mind Brings Mathematics into Being](http://www.amazon.co.uk/Where-Mathematics-Comes-Embodied-Brings/dp/0465037712/ref=sr_1_1?s=books&ie=UTF8&qid=1290466473&sr=1-1)

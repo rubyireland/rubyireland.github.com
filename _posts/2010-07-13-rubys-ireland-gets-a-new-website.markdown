@@ -9,7 +9,7 @@ categories:
 - Press Release
 ---
 
-![Ruby Ireland Logo](http://rubyireland.com/wp-content/uploads/2010/07/ruby-ireland-300x298.jpg)
+![Ruby Ireland Logo](/images/ruby-ireland-300x298.jpg)
 
 Welcome to the new Ruby Ireland website, dedicated to all things ruby & rails. Watch out for the RI community updating the site with all kinds of ruby goodness. Meanwhile you can you find us on the [Ruby Ireland Google Group](http://groups.google.ie/group/ruby_ireland).
 
