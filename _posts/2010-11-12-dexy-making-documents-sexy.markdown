@@ -1,13 +1,10 @@
 ---
-comments: false
-date: 2010-11-12 15:19:10
 layout: post
-slug: dexy-making-documents-sexy
 title: Dexy - making documents sexy
-wordpress_id: 173
+author: qamir
 ---
 
-[![](http://rubyireland.com/wp-content/uploads/2010/11/dexy.png)](http://rubyireland.com/wp-content/uploads/2010/11/dexy.png)
+![](images/dexy.png)
 
 This month's talk by Ana Nelson will be on [dexy ](http://www.dexy.it/)an open source tool for writing maintainable software documentation in any language, or in any combination of languages. Dexy was developed by Ana to make the process of documentation in software projects easier & sexier, anything that help with documentation has to be a good thing! It's certainly something I'm looking forward to using in my projects:
 

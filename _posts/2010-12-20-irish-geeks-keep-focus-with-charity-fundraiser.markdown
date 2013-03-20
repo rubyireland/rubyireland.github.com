@@ -1,17 +1,7 @@
 ---
-comments: false
-date: 2010-12-20 14:07:42
 layout: post
-slug: irish-geeks-keep-focus-with-charity-fundraiser
 title: Irish Geeks keep Focus with Charity Fundraiser
-wordpress_id: 222
-categories:
-- Meetups
-tag:
-- christmas
-- community
-- ireland
-- meetup
+author: declan
 ---
 
 What  with all the furore around cyberhackers giving some of the world's  largest governments and companies the willies this week, you'd  forgive non-techies for running hysterically in the other direction at  the sight of someone whipping out a laptop beside them in the cafe.  Thankfully,  not all us geeks are quite so malevolent, a fact highlighted at a  charity  night organised by geeks in aid of Focus Ireland in Dublin this week.

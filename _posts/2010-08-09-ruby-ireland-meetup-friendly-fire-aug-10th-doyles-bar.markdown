@@ -1,14 +1,7 @@
 ---
-comments: true
-date: 2010-08-09 08:13:36
 layout: post
-slug: ruby-ireland-meetup-friendly-fire-aug-10th-doyles-bar
 title: Ruby Ireland Meetup "Friendly Fire", Aug 10th (Doyle's Bar)
-wordpress_id: 77
-categories:
-- Meetups
-tag:
-- meetup
+author: declan
 ---
 
 A little break from tradition of presentation-oriented meetups, the next Ruby Ireland meetup will be in Doyle's bar (across from Trinity College), Dublin ([www.doylesintown.com](www.doylesintown.com)) from 6pm. But sure isn't change as good as a holiday!
