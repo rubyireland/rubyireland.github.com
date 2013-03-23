@@ -3,7 +3,11 @@ auto:        false
 server:      false
 server_port: 3000
 base-url:    /
-root_url: http://rubyireland.github.com/
+root_url: http://rubyireland.com/
+
+name: Ruby Ireland
+description: The Ruby Ireland blog
+url: http://rubyireland.com
 
 source:      .
 destination: ./_site
