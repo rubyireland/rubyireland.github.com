@@ -26,3 +26,4 @@ Thanks again to everyone who attend and helped to make it such a great evening a
 * More about POODR on the [POODR site](http://poodr.info)
 * Some [additional links and materials](http://www.rubyireland.com/poodr-talk-links.html)
   available in the previous Ruby Ireland blog post 
+* Slides are now [on speakerdeck](https://speakerdeck.com/chrismcg/april-2013-ruby-ireland-poodr-talk)
