@@ -19,19 +19,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/sidebar.css" />
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function(){
-        $.get('http://rubyjobs.ie/jobs.json').done(function(response){
-          var html = '<ul>';
-          response = response.slice(0,6)
-          $.each(response, function(index, job){
-            html = html + '<li><a href="' + job.how_to_apply + '">' + job.title + '</a> at ' + job.company + '</li>'
-          });
-          html = html + '</ul>';
-          $('#latest-jobs').html(html);
-        });
-      });
-    </script>
+    <script type="text/javascript" src="js/sidebar/latest-jobs.js"></script>
   </head>
   <body>
     <div class="container">
