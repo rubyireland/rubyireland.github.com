@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $.get('http://rubyjobs.ie/jobs.json').done(function(response){
+  $.getJSON('http://rubyjobs.ie/jobs.json').done(function(response){
     var html = '<ul>';
     response = response.slice(0,6)
     $.each(response, function(index, job){

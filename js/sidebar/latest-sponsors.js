@@ -10,7 +10,7 @@ $(document).ready(function(){
             '</li>';
   };
 
-  $.get(url).done(function(response){
+  $.getJSON(url).done(function(response){
     var html = '<ul>'
     $.each(response.results[0].sponsors, function(index, sponsor){
       html = html + sponsorToString(sponsor)
