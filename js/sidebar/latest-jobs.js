@@ -7,7 +7,6 @@ $(document).ready(function(){
             dataType: 'jsonp',
             success: function (response) {
               var html = '<ul>';
-              console.log(response);
               response = response.slice(0,6)
               $.each(response, function(index, job){
                 html = html + '<li><a href="' + job.how_to_apply + '">' +
@@ -19,7 +18,8 @@ $(document).ready(function(){
               $('#latest-jobs').html(html);
             }
   }).fail(function (XMLHttpRequest, textStatus, errorThrown) {
-      console.log('fail');
+      var html = '<ul><li>Failed to load jobs</li></ul>';
+      $('#latest-jobs').html(html);
   });
 });
 
