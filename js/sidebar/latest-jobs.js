@@ -9,7 +9,7 @@ $(document).ready(function(){
               var html = '<ul>';
               response = response.slice(0,6)
               $.each(response, function(index, job){
-                html = html + '<li><a href="' + job.how_to_apply + '">' +
+                html = html + '<li><a target="_blank" href="http://www.rubyjobs.ie/jobs/' + job.id + '">' +
                                 job.title + '</a> at ' +
                                 job.company +
                               '</li>';
