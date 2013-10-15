@@ -57,7 +57,7 @@ pressures on the organisers!
   there is 11, and we currently looking to take on 8 more
 * How many Ruby developers are there at SageOne? Currently 5, adding 6
   more of which 2 will be leads.
-* What's the makeup of a teams in SageOne? We follow scrum so our teams are
+* What's the typical team makeup in SageOne? We follow scrum so our teams are
 made up of BAs, Developers and Tester all sitting and working together.
 Outside of this we have a UI/UX designer float in and out depending on
 our needs. We don’t have set team sizes, we flex up and down as we are
