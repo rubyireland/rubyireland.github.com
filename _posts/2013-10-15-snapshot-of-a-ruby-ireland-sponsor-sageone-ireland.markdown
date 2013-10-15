@@ -62,3 +62,7 @@ made up of BAs, Developers and Testers all sitting and working together.
 Outside of this we have a UI/UX designer float in and out depending on
 our needs. We don’t have set team sizes, we flex up and down as we are
 all about doing what makes sense.
+* What languages are in use at SageOne? Ruby, JavaScript, as well as
+  good ol' HTML and CSS
+* Do SageOne do Continous Delivery? Yes!
+* Total sponsorship of Ruby Ireland to date? 3 nights of pizza, €900+
