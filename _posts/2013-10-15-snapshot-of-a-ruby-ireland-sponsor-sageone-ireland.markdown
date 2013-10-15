@@ -36,7 +36,7 @@ at the same time give something back including pizza! We're currently
 [hiring Ruby devs](http://www.rubyjobs.ie/?search=sageone) and Ruby
 Ireland is a great place to meet them. If you
 want to know more come over and talk to me at the meet ups or drop me an
-email jean.vecchia AT sage.com"_
+email jean.vecchia@sage.com"_
 
 
 SageOne developer Kevin Browne will be sharing lessons learned from
@@ -58,7 +58,7 @@ pressures on the organisers!
 * How many Ruby developers are there at SageOne? Currently 5, adding 6
   more of which 2 will be leads.
 * What's the typical team makeup in SageOne? We follow scrum so our teams are
-made up of BAs, Developers and Tester all sitting and working together.
+made up of BAs, Developers and Testers all sitting and working together.
 Outside of this we have a UI/UX designer float in and out depending on
 our needs. We don’t have set team sizes, we flex up and down as we are
 all about doing what makes sense.
