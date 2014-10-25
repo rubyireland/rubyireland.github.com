@@ -1,0 +1,85 @@
+body {
+  background-color: #000;
+  font-family: 'Duru Sans';
+}
+
+.container > .row {
+  margin-left: 0px;
+}
+
+.offset1 {
+  margin-left: 50px
+}
+
+.container {
+  background-color: #fff;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 60px;
+}
+
+a {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:link {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:visited {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:hover {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:active {
+  color: #B30000 !important;
+}
+
+
+h3 {
+  line-height: 1.5;
+}
+
+.padding10right {
+  padding-right: 10px;
+}
+
+.detailsPanel {
+  background-color: #f5f5f5;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* border: 1px solid #222; */
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 4px;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#group_details {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.subheader {
+  font-size: 25px;
+  color: #50BE15;
+}
+
+.detailsPanel dl {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.detailsPanel dt {
+  float: left;
+  padding-right: 10px;
+  font-weight: normal;
+}
+
+.detailsPanel dd {
+  margin-left: 0px;
+}
