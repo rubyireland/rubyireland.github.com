@@ -91,3 +91,9 @@ em {
   font-weight: 900;
   font-style: normal;
 }
+
+.creditLine {
+  font-size: 17px;
+  font-style: normal;
+  font-family: 'Advent Pro', sans-serif;
+}
