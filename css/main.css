@@ -97,3 +97,8 @@ em {
   font-style: normal;
   font-family: 'Advent Pro', sans-serif;
 }
+
+/* Affects all but the first blog post title in the index page */
+.span8 h3 ~ h3, .recent_posts h3 {
+  margin-top: 1.5em;
+}
