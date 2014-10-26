@@ -85,3 +85,9 @@ h3 {
 .detailsPanel dd {
   margin-left: 0px;
 }
+
+em {
+  font-size: 15px;
+  font-weight: 900;
+  font-style: normal;
+}
