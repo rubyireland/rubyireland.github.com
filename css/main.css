@@ -1,6 +1,17 @@
 body {
   background-color: #000;
-  font-family: 'Duru Sans';
+  /*font-family: 'Duru Sans';*/
+  font-family: 'Open Sans';
+}
+
+h1 a {
+  font-family: 'Droid Serif';
+}
+
+h1 img {
+  width: 100px;
+  position: relative;
+  top: -4px;
 }
 
 .container > .row {
@@ -58,6 +69,7 @@ h3 {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.008em;
 }
 
 #group_details {
