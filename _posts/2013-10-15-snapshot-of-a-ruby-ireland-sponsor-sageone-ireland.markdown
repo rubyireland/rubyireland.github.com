@@ -13,7 +13,7 @@ meetups and continue to do so. No mean feat, given that the size of has
 been trending upwards as 2013 rumbles on! We thought it would be timely
 to see what their backstory is and how Ruby is used within SageOne.
 
-<img src="/images/sageone.jpg" class="img-rounded postImageFloatRight" width="310" />
+<img src="/images/sageone.jpg" class="img-rounded postImageFloatRight" width="310" alt="sageone logo" />
 
 First, it's probably good to give a heads up on what the SageOne is.
 SageOne is Sage's suite of cloud accounting and payroll products, run as
