@@ -1,11 +1,15 @@
 body {
   background-color: #000;
-  /*font-family: 'Duru Sans';*/
-  font-family: 'Open Sans';
+  font-family: 'Duru Sans';
 }
 
 h1 a {
   font-family: 'Droid Serif';
+}
+
+h3 a {
+  /* Would've used Duru Sans but it looks too blocky at this size */
+  font-family: 'Open Sans';
 }
 
 h1 img {
@@ -69,7 +73,7 @@ h3 {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: 'Advent Pro', sans-serif;
-  letter-spacing: 0.008em;
+  letter-spacing: 0.02em;
 }
 
 #group_details {
@@ -113,4 +117,8 @@ em {
 /* Affects all but the first blog post title in the index page */
 .span8 h3 ~ h3, .recent_posts h3 {
   margin-top: 1.5em;
+}
+
+footer {
+  font-family: 'Advent Pro', sans-serif;
 }
