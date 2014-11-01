@@ -7,7 +7,7 @@ h1 a {
   font-family: 'Droid Serif';
 }
 
-h3 a {
+h3 {
   /* Would've used Duru Sans but it looks too blocky at this size */
   font-family: 'Open Sans';
 }
