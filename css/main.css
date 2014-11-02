@@ -72,7 +72,7 @@ h3 {
   padding-top: 20px;
   padding-bottom: 20px;
   font-family: 'Advent Pro', sans-serif;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
 }
 
 #group_details {
@@ -111,6 +111,7 @@ em {
   font-size: 17px;
   font-style: normal;
   font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
 }
 
 /* Affects all but the first blog post title in the index page */
@@ -120,4 +121,5 @@ em {
 
 footer {
   font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
 }
