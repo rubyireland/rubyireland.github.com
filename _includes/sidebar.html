@@ -1,33 +1,28 @@
 <div class="sidebar">
   <div class='group-details'>
     <h3>Group Details</h3>
-    <pre id="group_details"> {
-  when_do_we_meet_up:
-    <a href="http://www.meetup.com/rubyireland/" target="_parent">3rd Tue of every month</a>,
-  googlegroup:
-    <a href="http://groups.google.com/group/ruby_ireland" target="_parent">ruby_ireland</a>,
-  twitter:
-    <a href="http://twitter.com/rubyireland" target="_parent">@rubyireland</a>,
-  hashtag: #rubyireland,
-  irc: #ruby.ie on freenode,
-  related_communities: [
-    <a href="http://belfastruby.com/" target="_parent">Belfast Ruby</a>,
-    <a href="http://www.rubyireland.com/cork.html" target="_parent">Ruby Cork</a>
-  ],
-  todo: <a href="http://bit.ly/ritodo" target="_parent">list</a>,
-  workers: <a href="http://www.workingwithrails.com/browse/people/country/Ireland" target="_parent">with rails</a>
-  }
-    </pre>
+    <div class="detailsPanel">
+  <dl>
+  <dt>Meetup</dt><dd><a href="http://www.meetup.com/rubyireland/" target="_parent">3rd tue every month</a></dd>
+  <dt>Twitter</dt><dd><a href="http://twitter.com/rubyireland" target="_parent">@rubyireland</a></dd>
+  <dt>Hashtag</dt><dd><a href="https://twitter.com/search?q=%23rubyireland" target="_parent">#rubyireland</a></dd>
+  <dt>Mailing list</dt><dd> <a href="http://groups.google.com/group/ruby_ireland" target="_parent">googlegroup</a></dd>
+  <dt>IRC</dt><dd><a href="http://webchat.freenode.net/">#ruby.ie on freenode</a></dd>
+  <dt>Todo list</dt><dd><a href="http://bit.ly/ritodo" target="_parent">scratchpad</a></dd>
+  <dt>Friends</dt><dd> <a href="http://belfastruby.com/" target="_parent">Belfast Ruby</a>, <a href="http://www.rubyireland.com/cork.html" target="_parent">Cork</a></dd>
+  </dl>
+
+    </div>
   </div>
   <div class='latest-jobs'>
     <h3>Latest Jobs</h3>
-    <div id='latest-jobs'>
+    <div id='latest-jobs' class="detailsPanel">
       <!-- Loaded via javascript -->
     </div>
   </div>
   <div class="sponsors">
-    <h3>Sponsors</h3>
-    <div id='latest-sponsors'>
+    <h3>Our Sponsors</h3>
+    <div id='latest-sponsors' class="detailsPanel">
       <!-- Loaded via javascript -->
     </div>
   </div>

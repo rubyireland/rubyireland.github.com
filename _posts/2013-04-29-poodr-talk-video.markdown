@@ -6,12 +6,12 @@ author: declan
 
 For those who didn't make it down to Chris McGrath's excellent POODR talk at Intercom on April 16th - good news! It's been recorded...
 
-#### Video (HD recommended for readable slides)
+##### Video (HD recommended for readable slides)
 <iframe width="560" height="315"
 src="http://www.youtube.com/embed/Om-nhDbnbVo" frameborder="0"
 allowfullscreen="allowfullscreen"> </iframe>
 
-#### Audio Only (SoundCloud & MP3)
+##### Audio Only (SoundCloud & MP3)
 If you're into social audio and all that then the spoken word of Chris'
 soothing voice has been released on SoundCloud...
 <iframe width="100%" height="166" scrolling="no" frameborder="no"

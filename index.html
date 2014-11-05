@@ -2,6 +2,7 @@
 layout: default
 type: website
 description: Ruby Ireland 2013
+title: Ruby Ireland - where Rubyists &amp; Guinness drinkers meet
 ---
 
 <div>
@@ -9,7 +10,7 @@ description: Ruby Ireland 2013
     {% assign author = site.authors[post.author] %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p>
-      <em>Posted by {{ author.display_name }} on {{ post.date | date_to_long_string }}.</em>
+      <span class="creditLine">Posted by {{ author.display_name }} on {{ post.date | date_to_long_string }}.</span>
     </p>
     {{ post.content }}
   {% endfor %}

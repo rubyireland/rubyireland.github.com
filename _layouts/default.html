@@ -16,7 +16,14 @@
     <meta itemprop="description" content="{{ page.description }}"/>
     <meta itemprop="image" content="{{ site.root_url | append:page.image_url }}"/>
 
+    <link href="//fonts.googleapis.com/css?family=Open%20Sans&amp;subset=latin" rel="stylesheet" type="text/css" style="font-family: 'Open Sans';" />
+    <link href="//fonts.googleapis.com/css?family=Droid%20Serif&amp;subset=latin" rel="stylesheet" type="text/css" style="font-family: 'Droid Serif';" />
+    <link href="//fonts.googleapis.com/css?family=Duru%20Sans&amp;subset=latin" rel="stylesheet" type="text/css" style="font-family: 'Duru Sans';" />
+    <link href="//fonts.googleapis.com/css?family=Bad%20Script&amp;subset=latin" rel="stylesheet" type="text/css" />
+    <link href="//fonts.googleapis.com/css?family=Advent%20Pro&amp;subset=latin" rel="stylesheet" type="text/css" />
+
     <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/main.css" />
     <link rel="stylesheet" href="css/sidebar.css" />
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="js/sidebar/latest-jobs.js"></script>
@@ -26,12 +33,14 @@
     <div class="container">
       <div class="row">
         <div class="span12">
-          <h1><a href="{{ site.root_url }}">Ruby Ireland</a> <small>Where Rubyists &amp; Guinness drinkers meet.</small></h1>
+          <h1>
+          <img src="/images/ruby_ireland_100x100.png" alt="logo" />
+          <a href="{{ site.root_url }}">Ruby Ireland</a> <span class="subheader">where Rubyists &amp; Guinness drinkers meet</span></h1>
         </div>
       </div>
 
       <div class="row">
-        <div class="span8">
+        <div class="span8 padding10right">
           {{ content }}
         </div>
         <div class="offset1 span3">
@@ -42,7 +51,7 @@
       <div class="row">
         <div class="span12">
           <footer>
-            <p>&copy; Ruby Ireland 2010-2013</p>
+            <p>&copy; Ruby Ireland 2010-2014</p>
           </footer>
         </div>
       </div>

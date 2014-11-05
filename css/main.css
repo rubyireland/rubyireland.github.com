@@ -1,0 +1,125 @@
+body {
+  background-color: #000;
+  font-family: 'Duru Sans';
+}
+
+h1 a {
+  font-family: 'Droid Serif';
+}
+
+h3 {
+  /* Would've used Duru Sans but it looks too blocky at this size */
+  font-family: 'Open Sans';
+}
+
+h1 img {
+  position: relative;
+  top: -4px;
+}
+
+.container > .row {
+  margin-left: 0px;
+}
+
+.offset1 {
+  margin-left: 50px
+}
+
+.container {
+  background-color: #fff;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 60px;
+}
+
+a {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:link {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:visited {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:hover {
+  color: #B30000 !important;
+}
+
+.detailsPanel a:active {
+  color: #B30000 !important;
+}
+
+
+h3 {
+  line-height: 1.5;
+}
+
+.padding10right {
+  padding-right: 10px;
+}
+
+.detailsPanel {
+  background-color: #f5f5f5;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* border: 1px solid #222; */
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 4px;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+#group_details {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.subheader {
+  font-size: 25px;
+  color: #50BE15;
+  font-family: 'Bad Script', sans-serif;
+}
+
+.detailsPanel dl {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.detailsPanel dt {
+  float: left;
+  padding-right: 10px;
+  font-weight: normal;
+}
+
+.detailsPanel dd {
+  margin-left: 0px;
+}
+
+em {
+  font-size: 15px;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.creditLine {
+  font-size: 17px;
+  font-style: normal;
+  font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+/* Affects all but the first blog post title in the index page */
+.span8 h3 ~ h3, .recent_posts h3 {
+  margin-top: 1.5em;
+}
+
+footer {
+  font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
+}

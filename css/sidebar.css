@@ -1,3 +1,9 @@
+.postImageFloatRight {
+  float: right;
+  margin-right: 1em;
+  padding:10px;
+}
+
 .sidebar ul {
   list-style-type: none;
   margin: 0;
@@ -15,7 +21,6 @@
 .sidebar #latest-sponsors li span {
   width: 100%;
   display: block;
-  text-align: left;
 }
 
 .sidebar #latest-sponsors img {
@@ -25,7 +30,6 @@
 
 .sidebar .group-details {
   color: #333333;
-  font-family: "Lora",Georgia,"Times New Roman",Times,serif;
   font-size: 17px;
   line-height: 26px;
   margin: 0;
@@ -50,24 +54,23 @@ cursor: auto;
 }
 
 
-  .sidebar .group-details ul {
-      padding: 0 !important;
-      margin: none;
-  }
+.sidebar .group-details ul {
+  padding: 0 !important;
+  margin: none;
+}
 
-  .sidebar .group-details #group_details {
-    font-size: 70%;
-  }
+.sidebar .group-details #group_details {
+  font-size: 70%;
+}
 
-  .sidebar .group-details div#scraperwikipane {
-      left:10px;
-  }
+.sidebar .group-details div#scraperwikipane {
+  left:10px;
+}
 
-  .sidebar .group-details .first_sidebar_heading {
-      padding-top: 35px;
-  }
+.sidebar .group-details .first_sidebar_heading {
+  padding-top: 35px;
+}
 
-  .sidebar .group-details .subsequent_sidebar_heading {
-      padding-bottom: 10px;
-  }
+.sidebar .group-details .subsequent_sidebar_heading {
+  padding-bottom: 10px;
 }
