@@ -2,12 +2,23 @@
 
 Where Rubyists & Guinness drinkers meet.
 
-## Install the project locally
+Ruby Ireland is run on [mojombo's](https://github.com/mojombo/) [jekyll](https://github.com/mojombo/jekyll).
 
-Ruby Ireland is run on [mojombo's](https://github.com/mojombo/) [jekyll](https://github.com/mojombo/jekyll). You'll need to download and install jekyll to get setup locally.
-
-	gem install jekyll
+## Clone down the repo and setup
 
 Once installed fork and clone the repo locally
 
-	git clone git@github.com:bkenny/rubyireland.github.com.git
+	git clone git@github.com:your_github_username/rubyireland.github.com.git
+	bundle install
+
+You'll need to install nodejs on your system, eg.
+
+	sudo apt-get install node nodejs # on ubuntu
+
+## Run the jekyll server locally
+
+	bundle exec jekyll serve
+
+## Browse to http://localhost:4000
+
+	Hurrah!

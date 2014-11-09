@@ -30,32 +30,32 @@
     <script type="text/javascript" src="js/sidebar/latest-sponsors.js"></script>
   </head>
   <body>
-    <div class="container">
-      <div class="row">
-        <div class="span12">
-          <h1>
-            <a href="{{ site.root_url }}">
-            <img src="/images/ruby_ireland_100x100.png" alt="logo" />
-Ruby Ireland</a> <span class="subheader">where Rubyists &amp; Guinness drinkers meet</span></h1>
+    <div class="container container-styled">
+        <div class="row-with-zero-left-margin">
+          <div class="span12">
+            <h1>
+              <a href="{{ site.root_url }}">
+              <img src="/images/ruby_ireland_100x100.png" alt="logo" />
+  Ruby Ireland</a> <span class="subheader-styled">where Rubyists &amp; Guinness drinkers meet</span></h1>
+          </div>
         </div>
-      </div>
-
-      <div class="row">
-        <div class="span8 padding10right">
-          {{ content }}
+  
+        <div class="row-with-zero-left-margin">
+          <div class="span8 padding10right">
+            {{ content }}
+          </div>
+          <div class="offset1 span3">
+            {% include sidebar.html %}
+          </div>
         </div>
-        <div class="offset1 span3">
-          {% include sidebar.html %}
+  
+        <div class="row-with-zero-left-margin">
+          <div class="span12">
+            <footer>
+              <p>&copy; Ruby Ireland 2010-2014</p>
+            </footer>
+          </div>
         </div>
-      </div>
-
-      <div class="row">
-        <div class="span12">
-          <footer>
-            <p>&copy; Ruby Ireland 2010-2014</p>
-          </footer>
-        </div>
-      </div>
     </div>
   </body>
 </html>

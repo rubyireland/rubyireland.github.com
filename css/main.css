@@ -1,3 +1,9 @@
+/* Loosely following SMACSS */
+
+/* Main thing we do is pull out styled elements into foo-styled sections - in order to separate them from layout code */
+
+/* Base */
+
 body {
   background-color: #000;
   font-family: 'Duru Sans';
@@ -10,95 +16,12 @@ h1 a {
 h3 {
   /* Would've used Duru Sans but it looks too blocky at this size */
   font-family: 'Open Sans';
+  line-height: 1.5;
 }
 
 h1 img {
   position: relative;
   top: -4px;
-}
-
-.container > .row {
-  margin-left: 0px;
-}
-
-.offset1 {
-  margin-left: 50px
-}
-
-.container {
-  background-color: #fff;
-  padding-top: 20px;
-  padding-left: 30px;
-  padding-right: 60px;
-}
-
-a {
-  color: #B30000 !important;
-}
-
-.detailsPanel a:link {
-  color: #B30000 !important;
-}
-
-.detailsPanel a:visited {
-  color: #B30000 !important;
-}
-
-.detailsPanel a:hover {
-  color: #B30000 !important;
-}
-
-.detailsPanel a:active {
-  color: #B30000 !important;
-}
-
-
-h3 {
-  line-height: 1.5;
-}
-
-.padding10right {
-  padding-right: 10px;
-}
-
-.detailsPanel {
-  background-color: #f5f5f5;
-  padding-left: 10px;
-  padding-right: 10px;
-  /* border: 1px solid #222; */
-  border: 1px solid rgba(0,0,0,0.15);
-  border-radius: 4px;
-  width: 100%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  font-family: 'Advent Pro', sans-serif;
-  letter-spacing: 0.04em;
-}
-
-#group_details {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
-.subheader {
-  font-size: 25px;
-  color: #50BE15;
-  font-family: 'Bad Script', sans-serif;
-}
-
-.detailsPanel dl {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-
-.detailsPanel dt {
-  float: left;
-  padding-right: 10px;
-  font-weight: normal;
-}
-
-.detailsPanel dd {
-  margin-left: 0px;
 }
 
 em {
@@ -107,19 +30,187 @@ em {
   font-style: normal;
 }
 
-.creditLine {
+footer {
+  font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+a {
+  color: #B30000 !important;
+}
+
+/* Layout  - not quite following SMACSS here as we have a simple layout */
+
+.row-with-zero-left-margin {
+  margin-left: 0px;
+}
+
+.span8 h3 ~ h3, .recent_posts h3 {
+  /* Affects all but the first blog post title in the index page */
+  margin-top: 1.5em;
+}
+
+.container {
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 60px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+/* Pure styling - again, not very SMACSS */
+
+.container-styled {
+  background-color: #fff;
+}
+
+.details-panel-styled {
+  background-color: #f5f5f5;
+  font-family: 'Advent Pro', sans-serif;
+  letter-spacing: 0.04em;
+  /* border: 1px solid #222; */
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 4px;
+}
+
+.subheader-styled {
+  font-size: 25px;
+  color: #50BE15;
+  font-family: 'Bad Script', sans-serif;
+}
+
+.credit-line-styled {
   font-size: 17px;
   font-style: normal;
   font-family: 'Advent Pro', sans-serif;
   letter-spacing: 0.04em;
 }
 
-/* Affects all but the first blog post title in the index page */
-.span8 h3 ~ h3, .recent_posts h3 {
-  margin-top: 1.5em;
+/* Modules */
+
+.padding10right {
+  padding-right: 10px;
 }
 
-footer {
-  font-family: 'Advent Pro', sans-serif;
-  letter-spacing: 0.04em;
+.offset1 {
+  margin-left: 50px
+}
+
+.details-panel {
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.details-panel a:link {
+  color: #B30000 !important;
+}
+
+.details-panel a:visited {
+  color: #B30000 !important;
+}
+
+.details-panel a:hover {
+  color: #B30000 !important;
+}
+
+.details-panel a:active {
+  color: #B30000 !important;
+}
+
+.details-panel dl {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.details-panel dt {
+  float: left;
+  padding-right: 10px;
+  font-weight: normal;
+}
+
+.details-panel dd {
+  margin-left: 0px;
+}
+
+#group_details {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.postImageFloatRight {
+  float: right;
+  margin-right: 1em;
+  padding:10px;
+}
+
+.sidebar #latest-sponsors li {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.sidebar #latest-sponsors li a {
+  width: 100%;
+}
+
+.sidebar #latest-sponsors li span {
+  width: 100%;
+  display: block;
+}
+
+.sidebar #latest-sponsors img {
+  max-height: 50px;
+  max-width:90%;
+}
+
+.sidebar .group-details {
+  color: #333333;
+  font-size: 17px;
+  line-height: 26px;
+  margin: 0;
+  display:block;
+  margin: 5px;
+  width: 100%;
+}
+
+.sidebar .group-details a:-webkit-any-link {
+  color: -webkit-link;
+  text-decoration: underline;
+  cursor: auto;
+}
+
+.sidebar .group-details pre, .sidebar .group-details xmp, .sidebar .group-details plaintext, .sidebar .group-details listing {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  margin: 1em 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+
+.sidebar .group-details ul {
+  padding: 0 !important;
+  margin: none;
+}
+
+.sidebar .group-details #group_details {
+  font-size: 70%;
+}
+
+.sidebar .group-details div#scraperwikipane {
+  left:10px;
+}
+
+.sidebar .group-details .first_sidebar_heading {
+  padding-top: 35px;
+}
+
+.sidebar .group-details .subsequent_sidebar_heading {
+  padding-bottom: 10px;
 }

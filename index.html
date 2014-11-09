@@ -10,7 +10,7 @@ title: Ruby Ireland - where Rubyists &amp; Guinness drinkers meet
     {% assign author = site.authors[post.author] %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p>
-      <span class="creditLine">Posted by {{ author.display_name }} on {{ post.date | date_to_long_string }}.</span>
+      <span class="credit-line-styled">Posted by {{ author.display_name }} on {{ post.date | date_to_long_string }}.</span>
     </p>
     {{ post.content }}
   {% endfor %}
