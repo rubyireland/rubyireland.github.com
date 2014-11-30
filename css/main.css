@@ -149,9 +149,11 @@ a {
   padding:10px;
 }
 
+/*
 .postImageBordered {
   border: 1px solid rgba(0,0,0,0.15);
 }
+*/
 
 .scheduleTable {
   font-weight: bold;
