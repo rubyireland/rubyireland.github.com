@@ -4,7 +4,7 @@ title: Ruby Ireland End of Year Party
 author: declan
 ---
 
-<img src="images/ruby_ireland_xmas_2014_poster_sp2.png" class="img-rounded" alt="Ruby Ireland End of Year Party Image" />
+<img src="images/ruby_ireland_xmas_2014_poster_sp3.png" class="img-rounded" alt="Ruby Ireland End of Year Party Image" />
 
 It's the last meetup of the year and thanks to [Storyful](http://storyful.com/) and [PlayON.co](https://playon.co) it is going to be a cracker! We've got talks on the challenges of scaling architecture, as well as how to use RabbitMQ with Rails to build a social feed switchboard. And not only are they putting up the speakers but they're also putting their money where their mouth is by sponsoring, not one, but two end of year parties! Here's the schedule...
 
