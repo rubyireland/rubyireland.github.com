@@ -6,6 +6,7 @@ $(document).ready(function(){
             url: url,
             dataType: 'jsonp',
             success: function (response) {
+              var $ = jQuery;
               var html = '<ul>';
               response = response.slice(0,6)
               $.each(response, function(index, job){
