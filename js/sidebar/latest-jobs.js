@@ -7,6 +7,7 @@ $(document).ready(function(){
             dataType: 'jsonp',
             success: function (response) {
               var html = '<ul>';
+              var $ = jQuery;
               response = response.slice(0,6)
               $.each(response, function(index, job){
                 html = html + '<li><a target="_blank" href="http://www.rubyjobs.ie/jobs/' + job.id + '">' +

@@ -12,6 +12,7 @@ $(document).ready(function(){
 
   $.ajax({url: url, dataType: 'jsonp'}).done(function(response){
     var html = '<ul>'
+    var $ = jQuery;
     $.each(response.results[0].sponsors, function(index, sponsor){
       html = html + sponsorToString(sponsor)
     });
