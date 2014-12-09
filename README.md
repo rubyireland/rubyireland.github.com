@@ -1,4 +1,4 @@
-# Ruby Ireland -  [www.rubyireland.com](www.rubyireland.com)
+# Ruby Ireland -  [www.rubyireland.com](http://www.rubyireland.com)
 
 Where Rubyists & Guinness drinkers meet.
 
