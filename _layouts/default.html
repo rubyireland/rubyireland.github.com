@@ -27,6 +27,7 @@
     <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="js/sidebar/latest-jobs.js"></script>
     <script type="text/javascript" src="js/sidebar/latest-sponsors.js"></script>
+    <script type="text/javascript" src="js/jquery.snow.min.1.0.js"></script>
   </head>
   <body>
     <div class="container container-styled">
@@ -57,6 +58,11 @@
         </div>
     </div>
 
+    <script>
+      $(document).ready( function(){
+        $.fn.snow();
+      });
+    </script>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://secure.meetup.com/s/script/577045002335750872971/api/mu.btns.js?id=ab7g76fgmqt52oojoejge7gf8q";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 
   </body>
