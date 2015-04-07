@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails Girls 2015 - Volunteers Wanted
+title: Rails Girls Galway 2015 - Volunteers Wanted
 author: myriam
 ---
 
@@ -15,9 +15,9 @@ You can volunteer to co-organise and/or coach during a 2-day workshop
 that will allow women to easily build a web application, demystifying
 the "coding" activity.
 
-The workshop will be on June the 27th and 28th (Saturday and Sunday) from 9am to
+The [workshop](http://railsgirls.com/galway) will be on June the 27th and 28th (Saturday and Sunday) from 9am to
 5.30pm. It has been running since 2013 and is part of the [Rails
-Girls](http://railsgirls.com/galway) movement, successful worldwide.
+Girls](http://railsgirls.com) movement, successful worldwide.
 
 If you are interested in coaching, we'd love to hear from you. And if you would
 like to help organising, you can pick up a task from the long list
