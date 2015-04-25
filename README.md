@@ -1,6 +1,6 @@
 # Ruby Ireland -  [www.rubyireland.com](http://www.rubyireland.com)
 
-Where Rubyists & Guinness drinkers meet.
+... may the code rise to meet you.
 
 Ruby Ireland is run on [mojombo's](https://github.com/mojombo/) [jekyll](https://github.com/mojombo/jekyll).
 
