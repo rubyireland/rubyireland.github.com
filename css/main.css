@@ -163,6 +163,18 @@ a {
 }
 */
 
+/* Greyscaling of image solution at http://stackoverflow.com/a/8612047/427805 */
+.postImageGrey {
+  filter: gray; /* IE6-9 */
+  filter: grayscale(1); /* Firefox 35+ */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+/* Disable grayscale on hover */
+.postImageGrey:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
+}
+
 .scheduleTable {
   font-weight: bold;
   margin-bottom: 20px;
