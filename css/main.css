@@ -254,3 +254,67 @@ a {
 .sidebar .group-details .subsequent_sidebar_heading {
   padding-bottom: 10px;
 }
+
+/* From http://jsfiddle.net/_jro/xHzUA/ http://www.hongkiat.com/blog/stylish-blockquotes-pullquotes/ */
+.left-pull {
+  display: block;
+  padding: 7px 11px;
+  margin-left: 5px;
+  width: 170px;
+  float: left;
+  margin-right: 10px;
+  background: #555;
+  color: #bcbcbc;
+  font-weight: bold;
+  line-height: 17px;
+  font-size: 15px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.right-pull {
+  display: block;
+  padding: 7px 11px;
+  margin-left: 5px;
+  width: 170px;
+  float: right;
+  margin-right: 10px;
+  /* background: #555; */
+  background: #F5F5F5;
+  /*color: #bcbcbc;*/
+  color: #888;
+  font-weight: bold;
+  line-height: 17px;
+  font-size: 15px;
+  /*border: 1px solid grey;*/
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.left-pull {
+  display: block;
+  padding: 7px 11px;
+  margin-left: 5px;
+  width: 170px;
+  float: left;
+  margin-right: 10px;
+  /* background: #555; */
+  background: #F5F5F5;
+  /*color: #bcbcbc;*/
+  color: #888;
+  font-weight: bold;
+  line-height: 17px;
+  font-size: 15px;
+  /*border: 1px solid grey;*/
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+.link-inside-pull {
+  opacity: 0.6;
+}
