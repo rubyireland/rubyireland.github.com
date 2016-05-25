@@ -10,9 +10,11 @@ The <a href="http://www.meetup.com/Dublin-Learning-Ruby-on-Rails-Meetup/events/2
 quickly heading towards Learnsville yesterday, 23rd of April! :)
 </div>
 
-This is a guest post by Jules Roman Polidario, organiser of the new
+This is a guest post by [Jules Roman
+Polidario](http://twitter.com/jrpolidario), organiser of the new
 [Dublin Learning Ruby on Rails
-Meetup](http://www.meetup.com/Dublin-Learning-Ruby-on-Rails-Meetup).
+Meetup](http://www.meetup.com/Dublin-Learning-Ruby-on-Rails-Meetup)
+along with [Adrien Siami](https://twitter.com/intrepidd).
 
 Learning Ruby-on-Rails as a beginner is quite a challenging task,
 especially if you are learning it by yourself, as I did in 2 years past.
