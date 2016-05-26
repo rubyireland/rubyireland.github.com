@@ -7,7 +7,7 @@ author: declan
 
 <div class="right-pull">
 The <a href="http://www.meetup.com/Dublin-Learning-Ruby-on-Rails-Meetup/events/230846089/" class="link-inside-pull">first meetup</a> of Dublin Learning Ruby on Rails was fully-booked and
-quickly heading towards Learnsville yesterday, 23rd of April! :)
+quickly heading towards Learnsville yesterday, 23rd of May! :)
 </div>
 
 This is a guest post by [Jules Roman
