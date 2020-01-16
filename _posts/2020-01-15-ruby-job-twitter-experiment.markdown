@@ -25,7 +25,7 @@ There would be strict limits, for example:
 
 * No more than one annoucement per week, ideally less than that.
 * Preference would be given to companies who have contributed to Ruby Ireland by providing hosting or speakers.
-* The same company wouldn't feature in another job announcement for a period of 4 months (unless they
+* The same company wouldn't feature in another job announcement for a period of 3 months (unless they
 were hosting/speaking at an upcoming meetup, and, even then, there would be a need sane limit).
 * Any jobs announced in this way would have a company name against it; no blind/anonymous jobs.
 * This is just a flavour of the limits that could be used to ensure
